@@ -372,12 +372,4 @@ given()
 * Runs server: `java -jar artifacts/app-mbank.jar`
 * Runs all tests: `./gradlew clean test`
 * [Просмотр отчета(локальное выполнение тестов)](build/reports/tests/test/index.html)
-* [Просмотр отчета(appveyor выполнение тестов при push. Можно скачать архив отчета reports.zip.)](https://ci.appveyor.com/project/PavlyukovVladimir/pavlyukovvvqamid45autotestingautomatingbaseapi-ci/build/artifacts)
-
-# Багрепорты
-
-Багрепорты сделаны на основе результатов тестирования из ветки testNG. Тестирование из текущей не нашло ничего нового,
-переписывать старые багрепорты или добавлять новые нет смысла
-
-* []()
-* []()
+* [Просмотр отчета(appveyor выполнение тестов при push. Можно скачать архив отчета reports.zip, который находится на вкладке Artifacts, в конкретной записи истории.)](https://ci.appveyor.com/project/PavlyukovVladimir/pavlyukovvvqamid45autotestingautomatingbaseapi-ci/history)
